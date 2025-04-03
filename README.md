@@ -1,4 +1,8 @@
-<p style="text-align: center; font-size: 18px;"><strong>4月11日（金）</strong><br>
+<div class="nav" style="text-align: center;">
+    <a href="index.html">試合予定</a>
+    <a href="teams.html">チーム情報</a>
+    <a href="rules.html">大会ルール</a> <!-- 追加された大会ルールタブ -->
+</div><p style="text-align: center; font-size: 18px;"><strong>4月11日（金）</strong><br>
 13:00 AXIZ vs TE<br>
 19:00 RC vs GG</p>
 <p style="text-align: center; font-size: 16px;">
